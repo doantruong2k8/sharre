@@ -1,0 +1,123 @@
+
+.demo1{
+    background-color:  #005A9E;
+    height: 310px;
+    width: 1440px;
+    position:relative;
+    top:0;
+    left:0px;
+}
+.box1{
+    width: 280px;
+    height: 200px;
+    background-color: red;
+    position: relative;
+    top:26px;
+    left:120px;
+    border: 2px dotted #FFFFFF;
+    border-radius: 6px 0px 0px 0px;
+}
+.img{
+    width: 185px;
+    height: 62px;
+    background-image: url(./img/image.png);
+    background-size: contain;
+    background-color: #005A9E;
+    position: relative;
+    top:21px;
+    left:45px;
+}
+.p1{
+    width: 151px;
+    height: 14px;
+    position: relative;
+    top:2px;
+    left:67px;
+    font-family: Roboto;
+    font-size: 12px;
+    font-weight: 400;
+    color:rgba(253, 253, 253, 1);
+    line-height:30px;
+}
+.p2{
+width: 181px;
+height: 21px;
+position: relative;
+left: 49px;
+font-family: Roboto;
+font-size: 18px;
+font-weight: 700;
+line-height: 21.09px;
+text-align: left;
+color:rgba(255, 255, 255, 1);
+}
+.p3{
+width: 245.35px;
+height: 24px;
+position: relative;
+left: 18px;
+color: rgba(255, 255, 255, 1);
+display:flex;
+justify-content: space-around;
+font-size:27px;
+}
+.p4{
+width: 49.22px;
+height: 16.8px;
+position: absolute;
+top:26px;
+left: 476px;
+font-family: Helvetica Neue;
+font-size: 13.89px;
+font-weight: 700;
+line-height: 16.8px;
+text-align: left;
+color: rgba(255, 255, 255, 1);
+}
+.p5{
+color: rgba(255, 255, 255, 1);
+width: 49.22px;
+height: 16.8px;
+position: absolute;
+left: 476px;
+}
+.p5-1{
+    font-family: Helvetica Neue;
+    font-size: 13.67px;
+    font-weight: 400;
+    line-height: 21px;
+    text-align: left;
+    top:54.79px;
+}
+.p5-2{
+    font-family: Helvetica Neue;
+    font-size: 12.69px;
+    font-weight: 400;
+    line-height: 21px;
+    text-align: left;
+    top:80.79px;
+}
+.p5-3{
+    font-family: Helvetica Neue;
+    font-size: 13.89px;
+    font-weight: 400;
+    line-height: 21px;
+    text-align: left;
+    white-space:nowrap;
+    top:106.79px;
+}
+.div{
+width: 1440px;
+height: 43px;
+position: absolute;
+top: 265px;
+background: rgba(0, 69, 120, 1);
+}
+.p6{
+ width: 473px;
+height: 16px;
+position:relative;
+left: 120px;
+color: rgba(199, 224, 244, 1);
+white-space: nowrap;
+}
